@@ -1,0 +1,103 @@
+.container{
+    border: 10px solid #babab6; 
+    background-color: #babab6; 
+}
+
+h1{
+  
+    background-color: #ddddda;
+    color: #68695f;
+    font-family: Arial;  
+    padding: 12px;
+}
+p{
+color: #fff;
+padding: 5px;
+margin: 0;
+font-family: Arial;    
+font-size: 10px;
+}
+
+.first{
+    background-color: #357aaf;
+    color: #ddddda;
+}
+.second{
+    background-color: #3686b9;
+    color: #ddddda;
+
+}
+.third{
+    background-color: #3293c3;
+    color: #ddddda;
+
+}
+.fourth{
+    background-color:#469fcb ;
+    color:#ddddda ;
+}
+.fifth{
+    
+    background-color:#5fadd2 ;
+    color:#ddddda ;
+  
+}
+.sixth{
+    
+    background-color:#75bada ;
+    color:#ddddda ;
+
+}
+.seventh{
+    
+    background-color:#8dc4df ;
+    color:#ddddda ;
+
+}
+.eightth{
+
+    background-color: #23ab7e;
+    color:#ddddda ;
+    margin: 0px;
+   }
+   span{
+    font-size: 27px;
+    margin: 0px;
+    
+   }
+.nineth{
+
+    background-color:#e7abc1 ;
+    color:#ddddda ;
+    margin: 0px;
+    
+}
+.tenth{
+
+    background-color:#e799b5 ;
+    color:#ddddda ;
+  }
+.eleventh{
+
+    background-color: #e587a7;
+    color:#ddddda ;
+}
+.twelveth{
+
+    background-color:#e2749a ;
+    color:#ddddda ;
+}
+.thirteenth{
+
+    background-color:#e0658a ;
+    color:#ddddda ;
+  }
+.fourteenth{
+
+    background-color: #db5580;
+    color:#ddddda ;
+}
+.fifteenth{
+    background-color:#da3d75 ;
+    color:#ddddda ;
+}
